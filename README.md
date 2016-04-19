@@ -1,2 +1,3 @@
-# learn1
-Learning how to make repos
+# Read-Me
+
+This is the readme for a public, example repo.
